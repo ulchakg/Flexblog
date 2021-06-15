@@ -123,7 +123,7 @@ img {
 .about-container {
   display: flex;
   flex-wrap: wrap;
-  padding: 60px 0;
+  padding: 60px 10px;
 }
 
 .about-info {
@@ -140,8 +140,7 @@ img {
 
 .about h1 {
   font-size: 3em;
-  margin-top: 60px;
-  margin-bottom: -20px;
+  margin: 60px 0 -20px 10px;
 }
 
 .about-img {
@@ -151,7 +150,7 @@ img {
 
 .products {
   margin: 0 auto;
-  padding: 60px 0;
+  padding: 60px 10px;
   max-width: 960px;
 }
 
@@ -165,18 +164,19 @@ img {
   font-size: 3em;
   line-height: 1;
   margin-bottom: 60px;
+  margin-left: 10px;
 }
 
 .products-item {
   flex: 1 1 160px;
-  margin: 20px 0 0 20px;
+  margin: 20px 0 0 10px;
 }
 
 .products-item h2 {
   font-size: 3em;
   color: #a4a4a4;
   background-color: #f7f7f7;
-  padding: 60px 20px;
+  padding: 60px 10px;
 }
 
 .purple {
